@@ -12,4 +12,11 @@ ___
 - execute create_script.sql on your database to create db-structure
 - navigate to *yourhost*/webeng (name is static due to lack of time for dynamic adjustments)
 
+___
 Have fun using the blog !! =)
+
+Pictures
+--------
+
+![Admin-View](http://i.imgur.com/pgVYAka.jpg)
+![User-Entry-View](http://i.imgur.com/PuiiLIB.jpg)
